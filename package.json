@@ -1,0 +1,23 @@
+{
+  "name": "tashfan",
+  "version": "1.0.0",
+  "description": "How to print tashfan",
+  "main": "amber.js",
+  "scripts": {
+    "test": "node amber.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skhan3413/tashfan.git"
+  },
+  "keywords": [
+    "tashfan",
+    "amber",
+    "skhan3413"
+  ],
+  "author": "sajid khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skhan3413/tashfan/issues"
+  }
+}
